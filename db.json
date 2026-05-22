@@ -1,0 +1,335 @@
+{
+  "users": [
+    {
+      "id": "admin-user",
+      "username": "KBC_Host",
+      "email": "host@kbc.com",
+      "avatar": "👑",
+      "xp": 25000,
+      "coins": 5000,
+      "gamesPlayed": 120,
+      "highestWin": 10000000,
+      "streak": 5,
+      "achievements": [
+        "crorepati",
+        "quiz_god",
+        "consecut_5"
+      ],
+      "role": "admin"
+    },
+    {
+      "id": "player1",
+      "username": "Rohan Sharma",
+      "email": "rohan@gmail.com",
+      "avatar": "🦁",
+      "xp": 8500,
+      "coins": 1200,
+      "gamesPlayed": 45,
+      "highestWin": 640000,
+      "streak": 3,
+      "achievements": [
+        "lakhpati"
+      ],
+      "role": "user"
+    },
+    {
+      "id": "player2",
+      "username": "Priya Patel",
+      "email": "priya@gmail.com",
+      "avatar": "🦉",
+      "xp": 6200,
+      "coins": 800,
+      "gamesPlayed": 30,
+      "highestWin": 320000,
+      "streak": 2,
+      "achievements": [
+        "lakhpati"
+      ],
+      "role": "user"
+    },
+    {
+      "id": "usr_1779427264446",
+      "username": "mohammed",
+      "email": "abbas6618532@gmail.com",
+      "avatar": "🦉",
+      "xp": 800,
+      "coins": 120,
+      "gamesPlayed": 2,
+      "highestWin": 0,
+      "streak": 2,
+      "achievements": [
+        "rookie"
+      ],
+      "role": "user"
+    }
+  ],
+  "questions": [
+    {
+      "id": "easy1",
+      "text": "Which of these is the traditional Indian greeting representing respect and harmony?",
+      "options": [
+        "Namaste",
+        "Bonjour",
+        "Hello",
+        "Konnichiwa"
+      ],
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "category": "culture",
+      "hint": "It is a Sanskrit word meaning \"bowing to you\".",
+      "explanation": "Namaste is a respectful form of greeting in Hindu custom, found on the Indian subcontinent."
+    },
+    {
+      "id": "easy2",
+      "text": "What is the color of the middle band of the Indian National Flag?",
+      "options": [
+        "Saffron",
+        "White",
+        "Green",
+        "Navy Blue"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "category": "general",
+      "hint": "It represents peace and truth, and cradles the Ashoka Chakra.",
+      "explanation": "The Indian National Flag is a horizontal tricolour of saffron at the top, white in the middle, and green at the bottom."
+    },
+    {
+      "id": "easy3",
+      "text": "In the Ramayana, which bird tried to stop Ravana from kidnapping Sita?",
+      "options": [
+        "Garuda",
+        "Sugriva",
+        "Jatayu",
+        "Sampati"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "category": "mythology",
+      "hint": "He is characterized as an old, heroic vulture.",
+      "explanation": "Jatayu was a demigod vulture who fought bravely against Ravana to save Sita but was fatally wounded."
+    },
+    {
+      "id": "easy4",
+      "text": "Which of these devices is primarily used to input textual data into a computer?",
+      "options": [
+        "Monitor",
+        "Keyboard",
+        "Printer",
+        "Speaker"
+      ],
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "category": "technology",
+      "hint": "It consists of keys representing letters, numbers, and commands.",
+      "explanation": "A keyboard is the primary user input device for typing text on computing devices."
+    },
+    {
+      "id": "easy5",
+      "text": "Which of the following is NOT an Indian state?",
+      "options": [
+        "Goa",
+        "Punjab",
+        "Delhi",
+        "Assam"
+      ],
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "category": "geography",
+      "hint": "It is a Union Territory containing the national capital.",
+      "explanation": "Delhi is a Union Territory of India, while Goa, Punjab, and Assam are full-fledged states."
+    },
+    {
+      "id": "med1",
+      "text": "Which of the following elements has the chemical symbol \"Fe\"?",
+      "options": [
+        "Fluorine",
+        "Iron",
+        "Fermium",
+        "Lead"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "category": "science",
+      "hint": "Its Latin name is \"Ferrum\". It is highly magnetic and found in blood.",
+      "explanation": "The chemical symbol Fe is derived from \"Ferrum\", the Latin word for Iron."
+    },
+    {
+      "id": "med2",
+      "text": "Who is known as the \"Father of the Indian Constitution\"?",
+      "options": [
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Dr. B.R. Ambedkar",
+        "Sardar Vallabhbhai Patel"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "category": "history",
+      "hint": "He was a social reformer, jurist, and India's first Law Minister.",
+      "explanation": "Dr. Bhimrao Ramji Ambedkar is recognized as the chief architect of the Indian Constitution."
+    },
+    {
+      "id": "med3",
+      "text": "Which planet in our solar system has the highest mountain, Olympus Mons?",
+      "options": [
+        "Mars",
+        "Venus",
+        "Saturn",
+        "Jupiter"
+      ],
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "category": "science",
+      "hint": "It is commonly referred to as the Red Planet.",
+      "explanation": "Olympus Mons is a large shield volcano on the planet Mars, standing at over 21 km high."
+    },
+    {
+      "id": "med4",
+      "text": "Which ocean occupies the area between Africa, Asia, Australia, and Antarctica?",
+      "options": [
+        "Atlantic Ocean",
+        "Pacific Ocean",
+        "Indian Ocean",
+        "Arctic Ocean"
+      ],
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "category": "geography",
+      "hint": "It is named after a major South Asian nation.",
+      "explanation": "The Indian Ocean is the third-largest of the world's oceanic divisions, bounded by Asia to the north and Africa to the west."
+    },
+    {
+      "id": "med5",
+      "text": "Which country won the ICC Men's T20 World Cup in 2024?",
+      "options": [
+        "South Africa",
+        "India",
+        "Australia",
+        "England"
+      ],
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "category": "sports",
+      "hint": "They defeated South Africa in a thrilling final in Barbados.",
+      "explanation": "India won the ICC Men's T20 World Cup in June 2024 by defeating South Africa under Rohit Sharma's captaincy."
+    },
+    {
+      "id": "hard1",
+      "text": "In which city did Rabindranath Tagore establish the Visva-Bharati University?",
+      "options": [
+        "Kolkata",
+        "Santiniketan",
+        "Darjeeling",
+        "Shillong"
+      ],
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "category": "history",
+      "hint": "Its name means \"Abode of Peace\", located in West Bengal's Birbhum district.",
+      "explanation": "Visva-Bharati was founded by Nobel laureate Rabindranath Tagore in Santiniketan, West Bengal, in the year 1921."
+    },
+    {
+      "id": "hard2",
+      "text": "Which of these is the oldest mountain range in India, structurally?",
+      "options": [
+        "Himalayas",
+        "Western Ghats",
+        "Aravalli Range",
+        "Satpura Range"
+      ],
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "category": "geography",
+      "hint": "These hills run through Rajasthan and Haryana, heading towards Delhi.",
+      "explanation": "The Aravalli Range is one of the oldest fold mountain systems in the world, dating back to the Proterozoic era."
+    },
+    {
+      "id": "hard3",
+      "text": "What was the code name of the Indian Army operation to capture the Siachen Glacier in 1984?",
+      "options": [
+        "Operation Vijay",
+        "Operation Meghdoot",
+        "Operation Cactus",
+        "Operation Rajiv"
+      ],
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "category": "history",
+      "hint": "Named after Kalidasa's classical Sanskrit play, referring to a cloud messenger.",
+      "explanation": "Operation Meghdoot was launched by the Indian Armed Forces in April 1984, securing control over the Siachen Glacier."
+    },
+    {
+      "id": "hard4",
+      "text": "Which legendary filmmaker wrote and directed the famous \"Apu Trilogy\"?",
+      "options": [
+        "Satyajit Ray",
+        "Ritwik Ghatak",
+        "Mrinal Sen",
+        "Guru Dutt"
+      ],
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "category": "culture",
+      "hint": "He received an honorary Oscar in 1992 and was famed for Pather Panchali.",
+      "explanation": "Satyajit Ray created the classic Apu Trilogy: Pather Panchali (1955), Aparajito (1956), and Apur Sansar (1959)."
+    },
+    {
+      "id": "hard5",
+      "text": "In the context of standard Indian currency, whose signature appears on the 1 Rupee note?",
+      "options": [
+        "Governor of RBI",
+        "Finance Secretary of India",
+        "President of India",
+        "Minister of Finance"
+      ],
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "category": "general",
+      "hint": "Unlike other currency bills signed by the RBI Governor, this note is issued directly by the Ministry of Finance.",
+      "explanation": "Under the Coinage Act, the One-Rupee note is signed by the Finance Secretary of India, while all other banknotes are signed by the Governor of RBI."
+    }
+  ],
+  "leaderboards": [
+    {
+      "userId": "admin-user",
+      "username": "KBC_Host",
+      "avatar": "👑",
+      "xp": 25000,
+      "highestWinnings": 10000000,
+      "gamesPlayed": 120,
+      "streak": 5
+    },
+    {
+      "userId": "player1",
+      "username": "Rohan Sharma",
+      "avatar": "🦁",
+      "xp": 8500,
+      "highestWinnings": 640000,
+      "gamesPlayed": 45,
+      "streak": 3
+    },
+    {
+      "userId": "player2",
+      "username": "Priya Patel",
+      "avatar": "🦉",
+      "xp": 6200,
+      "highestWinnings": 320000,
+      "gamesPlayed": 30,
+      "streak": 2
+    },
+    {
+      "userId": "usr_1779427264446",
+      "username": "mohammed",
+      "avatar": "🦉",
+      "xp": 800,
+      "highestWinnings": 0,
+      "gamesPlayed": 2,
+      "streak": 2
+    }
+  ],
+  "stats": {
+    "totalGames": 197,
+    "totalWinnings": 24750000
+  }
+}

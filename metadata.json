@@ -1,0 +1,6 @@
+{
+  "name": "QuizMaster Pro",
+  "description": "A cinematic, premium, full-stack quiz game inspired by the style of Kaun Banega Crorepati with dramatic lifelines, multiplayer arena, and AI-powered question generation.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
